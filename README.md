@@ -87,3 +87,25 @@ Los participantes deben tener perfiles y características acordes con la audienc
 ## Necesidades / Objetivos de negocio;
 Lo que va a hacer un usuario en la plataforma y cómo va a interactuar.
 ¿Que hace el usuario con nuestras soluciones?
+
+### Hotjar
+##### Heatmap click desktop / phone
+
+![Heatmap landing](./assets/images/heatmap-click-desktop.jpg)
+
+![Heatmap landing](./assets/images/heatmap-click-phone.jpg)
+
+![typing](./assets/images/typing.png)
+
+### Google analytics
+
+#### Visión general
+![Google analytics](./assets/images/analytics_01.png)
+
+![Google analytics](./assets/images/analytics_02.png)
+
+### Propuestas wireframes
+
+![wireframe](./assets/images/travelus01.png)
+
+![wireframe](./assets/images/travelus02.png)
