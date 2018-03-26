@@ -60,6 +60,7 @@ Adultos jóvenes de 18 a 40 años que estudian o trabajan en la CDMX, y necesita
 
 10.- ¿Cuántas líneas de autobuses con destino a Cuernavaca conoces?
 
+![encuesta](./assets/images/Encuesta_travelus.png)
 
 ### Estrategia para encuestas (ux researcher)
 
@@ -89,20 +90,58 @@ Lo que va a hacer un usuario en la plataforma y cómo va a interactuar.
 ¿Que hace el usuario con nuestras soluciones?
 
 ### Hotjar
-##### Heatmap click desktop / phone
+
+##### Valor de Hotjar
+- Nos permite realizar un análisis de heathmaps, permitiendo identificar las zonas de interés de forma visual.
+- Genera recordings de la actividad de los usuarios, el tiempo que permanece en la página y permite el acceso a esos archivos.
+
+##### Heatmap click desktop
 
 ![Heatmap landing](./assets/images/heatmap-click-desktop.jpg)
 
+##### Heatmap click phone
+
 ![Heatmap landing](./assets/images/heatmap-click-phone.jpg)
+
 
 ![typing](./assets/images/typing.png)
 
+## Insights Hotjar
+Datos:
+- Heatmaps: 87 vistas en landing
+- Recordings: 52 archivos
+- Dispositivos: 10 vistas en iOS, 42 vistas en Android.
+
+Insights:
+- De los archivos recording que obtuvimos, 31 usuarios de Android derivaron en registro, de los usuarios de iOS de obtuvieron 8 registros.
+- El promedio de navegación es de 00:02:45 minutos, tiempo suficiente para leer la información y completar el registro.
+- En los archivos de Heatmaps, se observa el tráfico en el área del registro, así como la descripción del producto en los wireframes.
+- El uso de herramientas visuales que muestren más información acerca del producto, crea mayor interés en el usuario, eso se vio reflejado en el número de movimientos dentro del landing.
+
 ### Google analytics
+##### Valor de Analytics
+- Permite los informes en tiempo real, como la ubicación del usuario.
+- Se pueden generar informes personalizados, dependiendo de las especificidades del usuario.
+- Se pueden tener informes como el seguimiento de nuestros usuarios.
+- Resultados de las secciones por fuentes de tráfico.
 
 #### Visión general
 ![Google analytics](./assets/images/analytics_01.png)
 
 ![Google analytics](./assets/images/analytics_02.png)
+
+## Insights Analytics
+Datos:
+- Visión general de la audiencia
+- Número de visitas de página: 118
+- Porcentaje de rebote: 67%
+- Duración media de la sesión: 00:05:50
+- Datos demográficos: México 95.35%, Argentina 3.08%, Estados Unidos 1.54%
+- Hora de mayor tráfico: 18:00 hrs.
+- Dispositivos principales: Móviles 53.8%,  ordenadores 44.6%, tablets 1.5%
+Insights:
+- El 82.76% de nuestros usuarios utilizaron un dispositivo Android, frente a un 17.24% de usuarios de iOS.
+- El 65% de las visitas desde android derivaron en el registro.
 
 ### Propuestas wireframes
 
