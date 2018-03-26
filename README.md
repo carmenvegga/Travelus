@@ -142,3 +142,6 @@ Insights:
 ![wireframe](./assets/images/travelus01.png)
 
 ![wireframe](./assets/images/travelus02.png)
+
+### link de presentación Final
+https://www.canva.com/design/DACwmuHqkf0/n3FqSmpC76poI3P3Chj-Zg/edit?layouts=&category=tACFar75J9E
