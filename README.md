@@ -83,12 +83,6 @@ Los participantes deben tener perfiles y características acordes con la audienc
 - Duración aproximada, mencionar el tiempo aproximado para que el usuario determine si alcanza a completarla. “No te toma más de 5 minutos”
 
 
-## Enunciado modificado
-## Insights
-## Necesidades / Objetivos de negocio;
-Lo que va a hacer un usuario en la plataforma y cómo va a interactuar.
-¿Que hace el usuario con nuestras soluciones?
-
 ### Hotjar
 
 ##### Valor de Hotjar
