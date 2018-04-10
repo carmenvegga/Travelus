@@ -1,5 +1,5 @@
 ## Sprint 1 Introducción a UX
-![travelus01](https://user-images.githubusercontent.com/30419144/38585833-fe9e83e6-3ce0-11e8-8eb8-cc381762d46d.png)
+![travelus](https://user-images.githubusercontent.com/30419144/38586315-ec3044a4-3ce2-11e8-8f15-0332ffe80f39.png)
 
 ### Design thinking + UX Design + UX Research
 #### Reto:
