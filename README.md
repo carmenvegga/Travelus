@@ -1,4 +1,6 @@
 ## Sprint 1 Introducción a UX
+![travelus01](https://user-images.githubusercontent.com/30419144/38585833-fe9e83e6-3ce0-11e8-8eb8-cc381762d46d.png)
+
 ### Design thinking + UX Design + UX Research
 #### Reto:
 Entender y optimizar el journey de tomar un autobús de CDMX <> Cuernavaca.
